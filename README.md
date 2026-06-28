@@ -215,6 +215,8 @@ Based on the findings from the dashboard, the following recommendations are prop
 - Develop targeted marketing campaigns for valuable customer segments identified through the analysis.
 - Continue monitoring business KPIs through interactive dashboards to support ongoing strategic decision-making.
 
+---
+
 ## 🚀 Getting Started
 
 1. Clone this repository.
